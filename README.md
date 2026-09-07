@@ -2,6 +2,8 @@
 
 I made this to track my gold purchasing status, because i didn't want to check the gold price everytime, and calculate my win or losses.
 So this static browser dashboard for tracking a 1 Damleung gold position make my life easier.
+This is the first prototype for my new latest project goldkh which is deployed on goldkh.xyz
+
 
 ## Features
 
