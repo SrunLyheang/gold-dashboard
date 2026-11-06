@@ -13,13 +13,17 @@ This is the first prototype for my new latest project goldkh which is deployed o
 - Editable KHR/USD exchange rate.
 - P&L shown in USD, KHR, and percent.
 - Break-even spot price recalculated from the purchase price.
-- Price history chart with locally saved live price checks.
+- A brass balance scale as the main view: what you paid on one pan, your gold on the other. The beam tips with your P&L.
+- "What if" pricing: drag the slider, or grab a pan and tip the scale, to see your P&L at any price.
+- Price history chart you can scrub through; every day you hover puts that day's price on the scale.
+- Riel value per chi (ជី), shop premium paid over spot, and break-even spot.
+- Light and dark themes, phone layout with the main button in thumb reach, keyboard and screen-reader paths.
 
 ## Run
 
 Open `index.html` in a browser.
 
-No build step is required. The app uses plain HTML, CSS, JavaScript, Chart.js from a CDN, and browser `localStorage`.
+No build step is required. The app uses plain HTML, CSS, JavaScript (no chart library), Google Fonts (Gloock, Kantumruy Pro, Moul), and browser `localStorage`.
 
 ## Optional API Key
 
